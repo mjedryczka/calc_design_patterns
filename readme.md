@@ -1,1 +1,1 @@
-hello
+Branches "main" and "plugins" are the same. "main" should just be where I left off from assignment 4. "plugins" is properly done in this respect.
